@@ -1,4 +1,3 @@
-# game-bootcamp-dio
 
 <h1 align="center">Game developed for dio's bootcamp</h1>
 
@@ -14,4 +13,9 @@ Skills
 
 </h2>
 
+Feito com ❤️ por Wagner Paulo 👋🏽
+Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Wagner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-silva-6a163555/)](https://www.linkedin.com/in/wagner-silva-6a163555/)
+[![Gmail Badge](https://img.shields.io/badge/-wagstalos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wagstalos@gmail.com)](mailto:wagstalos@gmail.com)
 
