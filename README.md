@@ -1,10 +1,10 @@
 
 <h1 align="center">Game developed for dio's bootcamp</h1>
 
-<h1 align="center">
+<div align="center">
 <img src="https://img.shields.io/static/v1?label=Game&message=Bootcamp Dio&color=3498db&style=for-the-badge&logo="/>
 <img src="https://img.shields.io/static/v1?label=Status&message=ok&color=2ecc71f&style=for-the-badge&logo="/>
-</h1>
+</div>
 
 ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
