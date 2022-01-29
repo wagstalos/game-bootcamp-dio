@@ -2,7 +2,7 @@
 <h1 align="center">Game developed for dio's bootcamp</h1>
 
 <h1 align="center">
-<img src="https://img.shields.io/static/v1?label=Site&message=Virtual Reality&color=3498db&style=for-the-badge&logo="/>
+<img src="https://img.shields.io/static/v1?label=Game&message=Bootcamp Dio&color=3498db&style=for-the-badge&logo="/>
 <img src="https://img.shields.io/static/v1?label=Status&message=ok&color=2ecc71f&style=for-the-badge&logo="/>
 </h1>
 
