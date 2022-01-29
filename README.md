@@ -1,6 +1,10 @@
 # game-bootcamp-dio
 
+<h1 align="center">
+    
 Game developed for dio's bootcamp
+</h1>
+
 Skills
 
 ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
